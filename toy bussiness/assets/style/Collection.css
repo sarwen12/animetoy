@@ -1,0 +1,17 @@
+@import "navabar.css";
+@import "card.css";
+@import "button.css";
+@import "services.css";
+@import "footer.css";
+
+*{
+    margin: 0;
+}
+
+.nav-links li:nth-child(3) a{
+    text-decoration: underline;
+  }
+
+  footer{
+   margin-top: 500px;
+  }
